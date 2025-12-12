@@ -1,0 +1,47 @@
+@BookStoreApi_HostAddress = http://localhost:5025
+
+
+GET {{BookStoreApi_HostAddress}}/books/
+Accept: application/json
+
+###
+
+GET {{BookStoreApi_HostAddress}}/books/1
+Accept: application/json
+
+###
+
+POST {{BookStoreApi_HostAddress}}/books/
+Content-Type: application/json
+{
+  "title": "Moby-Dick",
+  "author": "Herman Melville",
+  "year": 1851
+}
+
+###
+
+POST {{BookStoreApi_HostAddress}}/books/
+Content-Type: application/json
+{
+  "title": "The Pragmatic Programmer",
+  "author": "Andrew Hunt & Jorrit vd Heide",
+  "year": 1999
+}
+
+###
+
+PUT {{BookStoreApi_HostAddress}/books/10
+Content-Type: application/json
+{
+  "title": "The Pragmatic Programmer",
+  "author": "Henk Bergsma & Jorrit vd Heide",
+  "year": 1999
+}
+
+###
+
+DELETE {{BookStoreApi_HostAddress}}/books/12
+Accept: application/json
+
+###
