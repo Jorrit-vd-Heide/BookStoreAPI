@@ -1,7 +1,14 @@
 📚 Books API – Clean Architecture (ASP.NET Core)
 
 Dit project is een voorbeeld van een ASP.NET Core Web API gebouwd volgens het Clean Architecture-principe.
-De API beheert boeken en gebruikt Entity Framework Core, SQLite, Serilog, Repositories, Services, en een duidelijke scheiding tussen Domain, Application, Infrastructure en Presentation (WebApi).
+De API beheert boeken en gebruikt:
+
+- Entity Framework Core (SQLite)
+- Serilog (structured logging)
+- FluentValidation (modelvalidatie)
+- Custom Error Handling Middleware
+- Repository Pattern
+- Clean Architecture layers
 
 🚀 Features
 
@@ -15,6 +22,10 @@ De API beheert boeken en gebruikt Entity Framework Core, SQLite, Serilog, Reposi
 
 ✔ Serilog structured logging
 
+✔ FluentValidation – automatische modelvalidatie
+
+✔ Custom global error-handling middleware
+
 ✔ CRUD endpoints voor: 📘 Books
 
 ✔ Gescheiden DTO’s en entiteiten
@@ -22,46 +33,33 @@ De API beheert boeken en gebruikt Entity Framework Core, SQLite, Serilog, Reposi
 ✔ Async/await overal toegepast
 
 🏛 Clean Architecture Structuur
-
 De oplossing bestaat uit vier projecten:
 ```
 src/
- ├─ WebApi/                 → Controllers, DI, Request Pipeline, Serilog
- ├─ Application/            → DTO's, Interfaces, Services (Use Cases)
+ ├─ WebApi/                 → Controllers, DI, Serilog, Middleware
+ ├─ Application/            → DTO's, Validators, Interfaces, Services 
  ├─ Domain/                 → Entities, Business Rules (geen EF afhankelijkheid)
  └─ Infrastructure/         → EF Core, DbContext, Repository implementaties
 ```
 
 🌐 WebApi (Presentation Layer)
-
 - Controllers
-
 - Serilog configuratie
-
 - Routing
-
 - Dependency Injection
 
 🧠 Application Layer
-
 - Business logic (Use Cases)
-
 - DTO’s (Data Transfer Objects)
-
 - Repository interfaces
 
 📦 Domain Layer
-
 - Pure C# entiteiten
-
 - Geen afhankelijkheid van frameworks
 
 🗄 Infrastructure Layer
-
 - EF Core DbContext
-
 - Repository implementaties
-
 - SQLite data-opslag
 
 🧪 Endpoints
@@ -74,6 +72,7 @@ POST	/api/books	Maak nieuw boek aan
 PUT	/api/books/{id}	Werk een boek bij
 DELETE	/api/books/{id}	Verwijder een boek
 ```
+Alle POST/PUT acties worden gevalideerd via FluentValidation.
 
 🛠 Installatie & Gebruik
 1. Clone de repository
@@ -113,36 +112,24 @@ https://localhost:5025/swagger
 📜 Logging (Serilog)
 
 De API gebruikt Serilog voor gestructureerde logging, met:
-
 - Console output
-
 - Dagelijkse logfiles in:
 ```
 WebApi/logs/log-yyyyMMdd.txt
 ```
 
 💾 Database
-
 - SQLite databasebestand: books.db
-
 - EF Core Migrations worden opgeslagen in Infrastructure/Migrations
 
 🧱 Technologieën
-
 - .NET 8
-
 - ASP.NET Core Web API
-
 - Entity Framework Core
-
 - SQLite
-
 - Serilog
-
 - Clean Architecture
-
 - Repository Pattern
-
 - C# 12
 
 📂 Structuuroverzicht
@@ -150,14 +137,15 @@ WebApi/logs/log-yyyyMMdd.txt
 src/
  ├─ WebApi/
  │   ├─ Controllers/
+ │   ├─ Middleware/
  │   ├─ Program.cs
- │   ├─ appsettings.json
  │   └─ logs/
  │
  ├─ Application/
  │   ├─ DTOs/
  │   ├─ Interfaces/
- │   └─ Services/
+ │   ├─ Services/
+ │   └─ Validators/
  │
  ├─ Domain/
  │   └─ Entities/
@@ -166,4 +154,5 @@ src/
      ├─ Persistence/
      ├─ Repositories/
      └─ Migrations/
+
 ```
