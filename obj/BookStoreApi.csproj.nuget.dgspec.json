@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jorrit\\source\\repos\\projects\\bookstoreapi\\BookStoreApi.csproj": {}
+    "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\BookStoreApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jorrit\\source\\repos\\projects\\bookstoreapi\\BookStoreApi.csproj": {
+    "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\BookStoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jorrit\\source\\repos\\projects\\bookstoreapi\\BookStoreApi.csproj",
+        "projectUniqueName": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\BookStoreApi.csproj",
         "projectName": "BookStoreApi",
-        "projectPath": "C:\\Users\\Jorrit\\source\\repos\\projects\\bookstoreapi\\BookStoreApi.csproj",
+        "projectPath": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\BookStoreApi.csproj",
         "packagesPath": "C:\\Users\\Jorrit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jorrit\\source\\repos\\projects\\bookstoreapi\\obj\\",
+        "outputPath": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jorrit\\source\\repos\\projects\\bookstoreapi\\NuGet.Config",
+          "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\NuGet.Config",
           "C:\\Users\\Jorrit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -51,6 +51,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"

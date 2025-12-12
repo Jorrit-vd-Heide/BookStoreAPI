@@ -3,76 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\bookstoreapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:bookstoreapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\bookstoreapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|BookStoreApi.csproj|solutionrelative:bookstoreapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|solutionrelative:webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|BookStoreApi.csproj|solutionrelative:nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\bookstoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:bookstoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|solutionrelative:domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\webapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:webapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\application\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|solutionrelative:application\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\application\\validators\\createbookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:application\\validators\\createbookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|solutionrelative:application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|solutionrelative:application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|solutionrelative:infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\migrations\\20251124152651_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|solutionrelative:migrations\\20251124152651_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\bookstoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|BookStoreApi.csproj|solutionrelative:bookstoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\logs\\log-20251207.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|solutionrelative:logs\\log-20251207.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\migrations\\bookcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|solutionrelative:migrations\\bookcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\migrations\\20251124152651_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|solutionrelative:migrations\\20251124152651_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|solutionrelative:infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C7173B2-E2D6-413C-34F3-FFD1B698E94F}|day15_webapi.csproj|solutionrelative:application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jorrit\\source\\repos\\Projects\\30-DAGEN-ROADMAP-Csharp-dotNET\\week03-aspnetcore-api\\Day15_WebApi\\Day15_WebApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -88,6 +52,58 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jorrit\\source\\repos\\Projects\\30-DAGEN-ROADMAP-Csharp-dotNET\\week03-aspnetcore-api\\Day15_WebApi\\Day15_WebApi\\Models\\TodoItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\logs\\log-20251207.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:logs\\log-20251207.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\migrations\\bookcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:migrations\\bookcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\migrations\\20251124152651_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:migrations\\20251124152651_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\migrations\\20251124152651_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:migrations\\20251124152651_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:application\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:application\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\application\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:application\\dtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|c:\\users\\jorrit\\source\\repos\\projects\\bookstoreapi\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39523F17-2735-F991-E519-E3E233A9874D}|BookStoreApi.csproj|solutionrelative:domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -97,7 +113,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -113,7 +129,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\WebApi\\MiddleWare\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApi\\MiddleWare\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\WebApi\\MiddleWare\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "WebApi\\MiddleWare\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T11:41:54.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateBookDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\Application\\Validators\\CreateBookDtoValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validators\\CreateBookDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\Application\\Validators\\CreateBookDtoValidator.cs",
+              "RelativeToolTip": "Application\\Validators\\CreateBookDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T11:31:47.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-12T11:22:11.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-12T11:22:08.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "nuget.config",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\nuget.config",
               "RelativeDocumentMoniker": "nuget.config",
@@ -121,25 +189,24 @@
               "RelativeToolTip": "nuget.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-12-12T11:08:39.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T11:08:39.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "BookStoreApi.csproj",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\BookStoreApi.csproj",
               "RelativeDocumentMoniker": "BookStoreApi.csproj",
               "ToolTip": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\BookStoreApi.csproj",
               "RelativeToolTip": "BookStoreApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-12T11:06:09.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -152,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -160,12 +227,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-12T11:05:34.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T11:05:34.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "log-20251207.txt",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\logs\\log-20251207.txt",
               "RelativeDocumentMoniker": "logs\\log-20251207.txt",
@@ -173,25 +239,24 @@
               "RelativeToolTip": "logs\\log-20251207.txt",
               "ViewState": "AgIAACUAAAAAAAAAAABBwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-07T14:29:06.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T14:29:06.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BookStoreApi.http",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\BookStoreApi.http",
               "RelativeDocumentMoniker": "BookStoreApi.http",
               "ToolTip": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\BookStoreApi.http",
               "RelativeToolTip": "BookStoreApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2025-12-07T14:28:36.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "BookContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\Migrations\\BookContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\BookContextModelSnapshot.cs",
@@ -199,12 +264,11 @@
               "RelativeToolTip": "Migrations\\BookContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T14:28:03.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T14:28:03.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "20251124152651_InitialCreate.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\Migrations\\20251124152651_InitialCreate.Designer.cs",
               "RelativeDocumentMoniker": "Migrations\\20251124152651_InitialCreate.Designer.cs",
@@ -212,12 +276,11 @@
               "RelativeToolTip": "Migrations\\20251124152651_InitialCreate.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T14:27:51.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T14:27:51.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "20251124152651_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\Migrations\\20251124152651_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20251124152651_InitialCreate.cs",
@@ -225,25 +288,24 @@
               "RelativeToolTip": "Migrations\\20251124152651_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T14:27:20.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T14:27:20.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
               "ToolTip": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\WebApi\\Program.cs",
               "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T14:18:52.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\Infrastructure\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BookRepository.cs",
@@ -251,12 +313,11 @@
               "RelativeToolTip": "Infrastructure\\Repositories\\BookRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T14:17:50.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T14:17:50.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\Infrastructure\\Persistence\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Persistence\\AppDbContext.cs",
@@ -264,12 +325,11 @@
               "RelativeToolTip": "Infrastructure\\Persistence\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T14:15:46.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T14:15:46.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "BookDto.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\Application\\DTOs\\BookDto.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\BookDto.cs",
@@ -277,12 +337,11 @@
               "RelativeToolTip": "Application\\DTOs\\BookDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T14:07:35.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T14:07:35.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\Application\\Interfaces\\IBookRepository.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IBookRepository.cs",
@@ -290,12 +349,11 @@
               "RelativeToolTip": "Application\\Interfaces\\IBookRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T14:10:47.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T14:10:47.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 24,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\Application\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\BookService.cs",
@@ -303,25 +361,24 @@
               "RelativeToolTip": "Application\\Services\\BookService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T14:08:50.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T14:08:50.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\WebApi\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\WebApi\\Controllers\\BooksController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T14:07:56.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 25,
               "Title": "CreateBookDto.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\Application\\DTOs\\CreateBookDto.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\CreateBookDto.cs",
@@ -329,12 +386,11 @@
               "RelativeToolTip": "Application\\DTOs\\CreateBookDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T14:07:41.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T14:07:41.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 26,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\Domain\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Book.cs",
@@ -342,12 +398,11 @@
               "RelativeToolTip": "Domain\\Entities\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T14:06:25.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T14:06:25.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 10,
               "Title": "Day15_WebApi.http",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\30-DAGEN-ROADMAP-Csharp-dotNET\\week03-aspnetcore-api\\Day15_WebApi\\Day15_WebApi\\Day15_WebApi.http",
               "RelativeDocumentMoniker": "..\\30-DAGEN-ROADMAP-Csharp-dotNET\\week03-aspnetcore-api\\Day15_WebApi\\Day15_WebApi\\Day15_WebApi.http",
@@ -358,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 11,
               "Title": "TodoItemsController.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\30-DAGEN-ROADMAP-Csharp-dotNET\\week03-aspnetcore-api\\Day15_WebApi\\Day15_WebApi\\Controllers\\TodoItemsController.cs",
               "RelativeDocumentMoniker": "..\\30-DAGEN-ROADMAP-Csharp-dotNET\\week03-aspnetcore-api\\Day15_WebApi\\Day15_WebApi\\Controllers\\TodoItemsController.cs",
@@ -369,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 12,
               "Title": "TodoContext.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\30-DAGEN-ROADMAP-Csharp-dotNET\\week03-aspnetcore-api\\Day15_WebApi\\Day15_WebApi\\Models\\TodoContext.cs",
               "RelativeDocumentMoniker": "..\\30-DAGEN-ROADMAP-Csharp-dotNET\\week03-aspnetcore-api\\Day15_WebApi\\Day15_WebApi\\Models\\TodoContext.cs",
@@ -380,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 13,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\30-DAGEN-ROADMAP-Csharp-dotNET\\week03-aspnetcore-api\\Day15_WebApi\\Day15_WebApi\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "..\\30-DAGEN-ROADMAP-Csharp-dotNET\\week03-aspnetcore-api\\Day15_WebApi\\Day15_WebApi\\Models\\TodoItem.cs",
@@ -391,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jorrit\\source\\repos\\Projects\\30-DAGEN-ROADMAP-Csharp-dotNET\\week03-aspnetcore-api\\Day15_WebApi\\Day15_WebApi\\Program.cs",
               "RelativeDocumentMoniker": "..\\30-DAGEN-ROADMAP-Csharp-dotNET\\week03-aspnetcore-api\\Day15_WebApi\\Day15_WebApi\\Program.cs",

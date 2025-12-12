@@ -1,7 +1,12 @@
+using BookStoreApi.Application.DTOs;
 using BookStoreApi.Application.Interfaces;
 using BookStoreApi.Application.Services;
+using BookStoreApi.Application.Validators;
 using BookStoreApi.Infrastructure.Persistence;
 using BookStoreApi.Infrastructure.Repositories;
+using BookStoreApi.WebApi.MiddleWare;
+using FluentValidation;
+using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
 
@@ -21,9 +26,12 @@ Log.Logger = new LoggerConfiguration()
 builder.Services.AddScoped<IBookRepository, BookRepository>();
 builder.Services.AddScoped<BookService>();
 builder.Services.AddControllers();
+builder.Services.AddFluentValidationAutoValidation();
+builder.Services.AddValidatorsFromAssembly(typeof(CreateBookDtoValidator).Assembly);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddTransient<IValidator<CreatedBookDto>, CreateBookDtoValidator>(); 
 // Replace default .NET logging with Serilog
 builder.Host.UseSerilog();
 
@@ -39,6 +47,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseMiddleware<ErrorHandlingMiddleware>();
 
 app.MapControllers();
 

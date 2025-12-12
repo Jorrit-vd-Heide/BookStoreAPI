@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lYsduhF/gKo=",
+  "dgSpecHash": "vML20kFVVRQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jorrit\\source\\repos\\projects\\bookstoreapi\\BookStoreApi.csproj",
+  "projectFilePath": "C:\\Users\\Jorrit\\source\\repos\\Projects\\BookStoreAPI\\BookStoreApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Jorrit\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\Jorrit\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "C:\\Users\\Jorrit\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\Jorrit\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Jorrit\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Jorrit\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
