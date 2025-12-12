@@ -15,9 +15,7 @@ De API beheert boeken en gebruikt Entity Framework Core, SQLite, Serilog, Reposi
 
 ✔ Serilog structured logging
 
-✔ CRUD endpoints voor:
-
-  📘 Books
+✔ CRUD endpoints voor: 📘 Books
 
 ✔ Gescheiden DTO’s en entiteiten
 
@@ -26,52 +24,56 @@ De API beheert boeken en gebruikt Entity Framework Core, SQLite, Serilog, Reposi
 🏛 Clean Architecture Structuur
 
 De oplossing bestaat uit vier projecten:
+```
 src/
  ├─ WebApi/                 → Controllers, DI, Request Pipeline, Serilog
  ├─ Application/            → DTO's, Interfaces, Services (Use Cases)
  ├─ Domain/                 → Entities, Business Rules (geen EF afhankelijkheid)
  └─ Infrastructure/         → EF Core, DbContext, Repository implementaties
+```
 
 🌐 WebApi (Presentation Layer)
 
-Controllers
+- Controllers
 
-Serilog configuratie
+- Serilog configuratie
 
-Routing
+- Routing
 
-Dependency Injection
+- Dependency Injection
 
 🧠 Application Layer
 
-Business logic (Use Cases)
+- Business logic (Use Cases)
 
-DTO’s (Data Transfer Objects)
+- DTO’s (Data Transfer Objects)
 
-Repository interfaces
+- Repository interfaces
 
 📦 Domain Layer
 
-Pure C# entiteiten
+- Pure C# entiteiten
 
-Geen afhankelijkheid van frameworks
+- Geen afhankelijkheid van frameworks
 
 🗄 Infrastructure Layer
 
-EF Core DbContext
+- EF Core DbContext
 
-Repository implementaties
+- Repository implementaties
 
-SQLite data-opslag
+- SQLite data-opslag
 
 🧪 Endpoints
 📘 Books
 Methode	Endpoint	Omschrijving
+```
 GET	/api/books	Haal alle boeken op
 GET	/api/books/{id}	Haal één boek op
 POST	/api/books	Maak nieuw boek aan
 PUT	/api/books/{id}	Werk een boek bij
 DELETE	/api/books/{id}	Verwijder een boek
+```
 
 🛠 Installatie & Gebruik
 1. Clone de repository
@@ -112,38 +114,39 @@ https://localhost:5025/swagger
 
 De API gebruikt Serilog voor gestructureerde logging, met:
 
-Console output
+- Console output
 
-Dagelijkse logfiles in:
+- Dagelijkse logfiles in:
 ```
 WebApi/logs/log-yyyyMMdd.txt
 ```
 
 💾 Database
 
-SQLite databasebestand: books.db
+- SQLite databasebestand: books.db
 
-EF Core Migrations worden opgeslagen in Infrastructure/Migrations
+- EF Core Migrations worden opgeslagen in Infrastructure/Migrations
 
 🧱 Technologieën
 
-.NET 8
+- .NET 8
 
-ASP.NET Core Web API
+- ASP.NET Core Web API
 
-Entity Framework Core
+- Entity Framework Core
 
-SQLite
+- SQLite
 
-Serilog
+- Serilog
 
-Clean Architecture
+- Clean Architecture
 
-Repository Pattern
+- Repository Pattern
 
-C# 12
+- C# 12
 
 📂 Structuuroverzicht
+```
 src/
  ├─ WebApi/
  │   ├─ Controllers/
@@ -163,3 +166,4 @@ src/
      ├─ Persistence/
      ├─ Repositories/
      └─ Migrations/
+```
